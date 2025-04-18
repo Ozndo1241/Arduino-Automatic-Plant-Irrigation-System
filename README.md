@@ -1,5 +1,5 @@
 # Automatic Plant Irrigation System
-## - Features
+## **- Features**
   ### * LCD screen for reporting water level and moisture level
   ### * Low-water alarm
   ### * Power efficient
@@ -7,7 +7,7 @@
   ### * Highly configurable (Through code)
   ### * Contrast adjust knob for LCD
   ### * Query button for querying data on LCD
-## - Main Materials
+## **- Main Materials**
   ### * Soil moisture sensor with analog output
   ### * Water level sensor
   ### * (Highly recommended) External power supply (6 - 12V)
@@ -18,7 +18,7 @@
   ### * Any LED (The 20ma ones are great)
   ### * 10K potentiometer (For LCD contrast knob)
   ### * (Optional) 5V regulator for motor or LCD
-## - Setup
+## **- Setup**
   ### * Just import the .ino file to arduino IDE or any other Arduino IDE/code editor and upload to microcontroller.
   ### * Adjust code or variables tailored to your preferences and needs.
   ### * Good luck!
