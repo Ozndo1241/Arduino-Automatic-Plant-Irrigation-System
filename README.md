@@ -7,7 +7,7 @@
   ### * Highly configurable (Through code)
   ### * Contrast adjust knob for LCD
   ### * Query button for querying data on LCD
-## ***- Main Materials***
+## ***- Core Materials***
   ### * Soil moisture sensor with analog output
   ### * Water level sensor
   ### * (Highly recommended) External power supply (6 - 12V)
