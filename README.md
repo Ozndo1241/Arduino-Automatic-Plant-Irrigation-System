@@ -19,6 +19,6 @@
   ### * 10K potentiometer (For LCD contrast knob)
   ### * (Optional) 5V regulator for motor or LCD
 ## ***- Setup***
-  ### * Just import the .ino file to arduino IDE or any other Arduino IDE/code editor and upload to microcontroller.
+  ### * Import the .ino file to arduino IDE or any other Arduino IDE/code editor and upload to microcontroller.
   ### * Adjust code or variables tailored to your preferences and needs.
-  ### * Good luck!
+  ### * Good luck.
